@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlsAndRoutes", "UrlsAndRoutes\UrlsAndRoutes.csproj", "{278C9E3A-7BE0-4458-B569-ED487EE5CF83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlsAndRoutes.Test", "UrlsAndRoutes.Test\UrlsAndRoutes.Test.csproj", "{FB683962-95A4-46BF-A1CE-FDA6AD183B5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{278C9E3A-7BE0-4458-B569-ED487EE5CF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{278C9E3A-7BE0-4458-B569-ED487EE5CF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{278C9E3A-7BE0-4458-B569-ED487EE5CF83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB683962-95A4-46BF-A1CE-FDA6AD183B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB683962-95A4-46BF-A1CE-FDA6AD183B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB683962-95A4-46BF-A1CE-FDA6AD183B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB683962-95A4-46BF-A1CE-FDA6AD183B5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
